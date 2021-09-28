@@ -1,0 +1,26 @@
+{
+  "name": "@vowels-counter/cli",
+  "version": "1.0.0",
+  "description": "Vowel counting cli made in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jadack/VowelsCounterCli.git"
+  },
+  "author": "Jack Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jadack/VowelsCounterCli/issues"
+  },
+  "homepage": "https://github.com/Jadack/VowelsCounterCli#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "commander": "^8.2.0",
+    "figlet": "^1.5.2",
+    "path": "^0.12.7"
+  }
+}
