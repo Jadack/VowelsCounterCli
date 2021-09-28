@@ -1,5 +1,5 @@
 {
-  "name": "@vowels-counter/cli",
+  "name": "vowels-counter-cli",
   "version": "1.0.0",
   "description": "Vowel counting cli made in TypeScript.",
   "main": "index.js",
